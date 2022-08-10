@@ -1,2 +1,14 @@
 ,?php
 echo "Hello123"
+<div>
+Перша сторінка сайту. Ласкаво просимо до неї
+</div>
+<title>Мій перший сайт</title
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.php?page=main">Головна сторінка сайту</a> 
+        <a href="index.php?page=feedback>Зворотній звязок</a>
+    </nav>
+</header>
